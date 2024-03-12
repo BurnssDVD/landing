@@ -1,0 +1,246 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-b5W {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-b5W .rectangle-3-ay2 {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-1-b5W .rectangle-3-ay2 .rectangle-3-oUQ {
+  width: 100%;
+  height: 102.4rem;
+  background: linear-gradient(240.16deg, #6e1370 13.64%, #bda9c6 56.09%, #fcb2f5 98.53%);
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ {
+  width: 152.5rem;
+  height: 85.9rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .settingsperspectivemattes-2-Z6C {
+  margin-right: 0.1rem;
+  width: 5.7rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg {
+  margin-top: 1rem;
+  width: 146.7rem;
+  height: 84.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .service-Zdv {
+  width: 6.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 78.7rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .pricing-cMJ {
+  width: 6.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 88.3rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .pricing-Vvt {
+  width: 7.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .pricing-Dbz {
+  width: 4.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .home-uzc {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 69.1rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .freelance-BBS {
+  width: 13.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .vectary-texture-HkG {
+  width: 116.8rem;
+  height: 83.1rem;
+  position: absolute;
+  left: 29.9rem;
+  top: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .halo-selamat-datang-zua {
+  width: 29rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 30.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #8a40e8;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .suka-blyat-KBA {
+  width: 10rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 33.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Ponnala, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .david-gabriel-sembiring-web-designer-pdi {
+  width: 60.7rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 0;
+  top: 37.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.1875;
+  color: #000000;
+  font-family: Poller One, 'Source Sans Pro';
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .rectangle-1-8PW {
+  width: 18.1rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 49.5rem;
+  background-color: #161473;
+  border-radius: 2.4rem;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .rectangle-2-FDE {
+  width: 18.1rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 26rem;
+  top: 49.5rem;
+  background-color: #161474;
+  border-radius: 2.4rem;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .chat-me-XAk {
+  width: 11.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 49.5rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #f6e8e8;
+  font-family: Potta One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .order-pQk {
+  width: 8.1rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 30.3rem;
+  top: 49.8rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #f6e8e8;
+  font-family: Potta One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-b5W .auto-group-gpfd-FbJ .auto-group-jt5v-3Qg .trophyperspectivemattes-Xa4 {
+  width: 4.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 29rem;
+  top: 28.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-b5W .youtubeperspectivemattes-pp4 {
+  width: 7.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 96.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
